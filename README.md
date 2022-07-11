@@ -1,2 +1,2 @@
 # content-based_recommendation_system
-A content-based recommendation system using IMDB detaset and user ratings
+A content-based recommendation system using IMDB dataset and user ratings
